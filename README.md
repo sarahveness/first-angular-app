@@ -8,4 +8,4 @@ Install the Angular CLI Globally with `npm install -g @angular/cli`
 Either from me if you love coffee, or start fresh with `ng new YOUR-APP-NAME`
 
 ## Launch the server
-You'll want to `cd YOUR-APP-NAME` & `ng serve --open` which will automatically build and launch your app at `http://localhost:4200/`
+You'll want to `cd YOUR-APP-NAME` & `ng serve --open` or `npm start` which will automatically build and launch your app at `http://localhost:4200/` and watch for code changes as you work.
